@@ -1,0 +1,49 @@
+_repo: Sight-Gag_30288
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janifer, Laurence M.
+    aliases:
+    - Logan, William
+    - Janifer, Larry
+    - Janifer, Laurence Mark
+    - Harris, Larry M.
+    - Harris, Laurence Mark
+    birthdate: 1933
+    deathdate: 2002
+    gutenberg_agent_id: '25268'
+    url: http://www.gutenberg.org/2009/agents/25268
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
+description: Intelligence is a great help in the evolution-by-survival-but intelligence
+  without muscle is even less useful than muscle without brains. But it's so easy
+  to forget that muscle-plain physical force-is important, too!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Parapsychology -- Fiction'
+title: Sight Gag
+url: http://www.gutenberg.org/ebooks/30288
